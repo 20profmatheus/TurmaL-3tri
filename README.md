@@ -1,9 +1,9 @@
 # TurmaL-3tri
 Pensamento Computacional 1ºAno
 ## Formação e atuação:
-Sou formado em Geografia pela UENP - Universidade Estadual do Norte do Paraná e atualmente estou com cinco componente curriculares, são eles:
-*Geografia*
-*Pensamento Computacional*
+#### Sou formado em Geografia pela UENP - Universidade Estadual do Norte do Paraná e atualmente estou com cinco componente curriculares, são eles:
+#####*Geografia*
+######*Pensamento Computacional*
 *Cidadania e Civismo*
 *PMA - Português e Matemática
   Possui uma turma de Pensamento Computacional no Ensino Médio (1ºA) e três turmas de PC no ensino fundamental (8A,9A e 9B).
