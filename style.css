@@ -1,5 +1,5 @@
 body{
-    background-color: beige;
+    background-color:beige;
 }
 
 #titulo {
@@ -8,7 +8,7 @@ body{
     text-align: center;
 }
 
-.class {
+.texto {
     color:black;
     font-size: 30px;
     text-align: justify;
