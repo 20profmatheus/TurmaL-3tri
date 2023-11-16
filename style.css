@@ -19,5 +19,5 @@ body{
     width: 900px;
     padding: 5px;
     margin: 15px;
-    border: groove; 
+    border-radius: 8px
 }
