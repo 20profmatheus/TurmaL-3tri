@@ -14,7 +14,7 @@ body{
     text-align: justify;
 }
 
-#imagem {
+.imagem {
     height: 300px;
     width: 500px;
     padding: 3px;
@@ -23,3 +23,6 @@ body{
     border-radius: 20px;    
 }
 
+.conteudo {
+    background-color: rgba(85, 85, 218, 0.514)7);
+}
