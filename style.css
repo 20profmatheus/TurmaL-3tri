@@ -38,5 +38,5 @@ body{
 }
 
 .lista2 {
-    list-style-position: inside;
+    list-style: none;
 }
