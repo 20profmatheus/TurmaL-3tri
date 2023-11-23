@@ -27,3 +27,8 @@ body{
 .conteudo {
     background-color: lightskyblue;
 }
+
+.listas {
+    font-size: 35px;
+    text-align: center;
+}
