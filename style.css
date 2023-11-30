@@ -41,7 +41,8 @@ header {
     width: 250px;
     padding: 3px;
     border: 3px solid;
-    border-radius: 40px;     
+    border-radius: 40px;
+    margin-right: 40%;     
 }
 
 .conteudo {
